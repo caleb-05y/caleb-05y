@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Caleb Youhanna 👋
 
-<!--
-**caleb-05y/caleb-05y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Science Graduate – ASU Online Bootcamp**  
+Focused on building real-world data science and machine learning projects.
 
-Here are some ideas to get you started:
+### 🔨 Currently Working On
+- End-to-end data science and machine learning projects
+- Model development, evaluation, and optimization using real datasets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tools & Technologies
+- Python, SQL  
+- Pandas, NumPy  
+- Scikit-learn, TensorFlow, Keras  
+- Data Visualization (Matplotlib, Seaborn)
+
+### 📫 Reach Me
+- GitHub: https://github.com/caleb-05y
+- LinkedIn: www.linkedin.com/in/caleby02
