@@ -2,6 +2,7 @@
 
 **Data Science Graduate – ASU Online Bootcamp**  
 Focused on building real-world data science and machine learning projects.
+
 (Completed 70+ hands-on projects during the ASU Online Data Science Bootcamp)
 
 ### 🔨 Currently Working On
